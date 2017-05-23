@@ -1,0 +1,4 @@
+Antarmuka Tag adalah istilah di pemograman Java. 
+Berupa interface kosong yang diterapkan kelas untuk mengklaim keanggotaan dalam satu set. 
+interface sendiri tidak menyatakan metode 
+hanya sebuah tag saja.
